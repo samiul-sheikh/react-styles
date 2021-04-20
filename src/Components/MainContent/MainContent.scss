@@ -1,6 +1,4 @@
-$border-color: gray;
-$text-important: blue;
-$text-description-color: goldenrod;
+@import '../../styles/shared/color.scss';
 
 .first-box{
     border: 1px solid $border-color;

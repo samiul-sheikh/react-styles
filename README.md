@@ -5,6 +5,6 @@ Style React and CSS Preprocessor SASS
 - Styled Components
 - Syntactically Awesome Style Sheets(SASS)
 
-https://create-react-app.dev/\
-https://styled-components.com/\
-https://sass-lang.com/
+1. https://create-react-app.dev/
+2. https://styled-components.com/
+3. https://sass-lang.com/
