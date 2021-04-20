@@ -1,0 +1,20 @@
+$border-color: gray;
+$text-important: blue;
+$text-description-color: goldenrod;
+
+.first-box{
+    border: 1px solid $border-color;
+    color: $text-important;
+}
+.second-box{
+    border: 1px solid $border-color;
+    color: $text-description-color;
+}
+.third-box{
+    border: 1px solid $border-color;
+    color: $text-important;
+}
+.fourth-box{
+    border: 1px solid $border-color;
+    color: $text-description-color;
+}
